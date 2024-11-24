@@ -1,6 +1,6 @@
-# SQL Cleaning and Exploratory Data Analysis (EDA) Project
+# Project: Cleaning & EDA in World Layoffs Dataset
 
-This project showcases the process of cleaning and performing exploratory data analysis (EDA) on the `world_layoffs` dataset using SQL.
+This project showcases the process of cleaning and performing exploratory data analysis (EDA) on a `world_layoffs` dataset using SQL
 
 ## Overview
 The primary goals of this project were:
@@ -19,12 +19,7 @@ The primary goals of this project were:
   - Auto-Increment ID usage for unique identification
   - Use of transactions for secure updates
   
-- **Dataset:** Layoffs data including company information, industry, location, and dates.
-
-## Folder Structure
-- `sql/`: Contains the SQL script used for cleaning and EDA.
-- `notes/`: Descriptive notes explaining the thought process and key decisions.
-- `screenshots/`: Optional visuals or outputs from the SQL process.
+- **Dataset:** Layoffs data (2020-2023) including company information, industry, location, and dates.
 
 ## Running the Code
 1. Clone the repository:
